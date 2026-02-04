@@ -1,2 +1,2 @@
 # Poll-App
-JavaScript project || TailwindCSS
+JavaScript project 
